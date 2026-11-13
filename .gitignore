@@ -1,29 +1,10 @@
-# Arquivos compilados Java
-*.class
-target/
-build/
-*.jar
-*.war
-
-# Configuração com senha do banco — NUNCA subir
-src/main/resources/application.properties
-application-local.properties
-*.env
-
-# IDEs
-.idea/
-*.iml
-.vscode/
-.settings/
-.project
-.classpath
-
-# Sistema operacional
-.DS_Store
-Thumbs.db
-
-# Backups e dumps do banco
-*.bak
-*.mdf
-*.ldf
-*.log
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Ignored default folder with query files
+/queries/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
