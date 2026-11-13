@@ -1,0 +1,7 @@
+# Copie este arquivo para "config.properties" e preencha com os seus dados.
+# O config.properties nao vai para o GitHub (esta no .gitignore),
+# por isso a senha do banco nao fica publica.
+
+db.url=jdbc:mysql://localhost:3306/emprego_justo?useSSL=false&useUnicode=true&characterEncoding=UTF-8&serverTimezone=America/Sao_Paulo
+db.usuario=root
+db.senha=COLOQUE_SUA_SENHA_AQUI
